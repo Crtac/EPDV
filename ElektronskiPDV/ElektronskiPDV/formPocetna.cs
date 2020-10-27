@@ -19,7 +19,10 @@ namespace ElektronskiPDV
 
         private void btnKreirajEPDV_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(Program.getConnectionString);
+            formIzvozEPDV izvozEPDV = new formIzvozEPDV();
+            this.Hide();
+            izvozEPDV.ShowDialog();
+            this.Show();
         }
 
         private void btnPregledKIF_Click(object sender, EventArgs e)
