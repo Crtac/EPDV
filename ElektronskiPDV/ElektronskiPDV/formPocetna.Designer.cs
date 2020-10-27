@@ -56,6 +56,7 @@
             this.btnPregledKIF.TabIndex = 1;
             this.btnPregledKIF.Text = "Pregled KIF-a";
             this.btnPregledKIF.UseVisualStyleBackColor = false;
+            this.btnPregledKIF.Click += new System.EventHandler(this.btnPregledKIF_Click);
             // 
             // btnPregledKUF
             // 
@@ -67,6 +68,7 @@
             this.btnPregledKUF.TabIndex = 2;
             this.btnPregledKUF.Text = "Pregled KUF-a";
             this.btnPregledKUF.UseVisualStyleBackColor = false;
+            this.btnPregledKUF.Click += new System.EventHandler(this.btnPregledKUF_Click);
             // 
             // formPocetna
             // 

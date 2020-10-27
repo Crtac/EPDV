@@ -21,5 +21,15 @@ namespace ElektronskiPDV
         {
             MessageBox.Show(Program.getConnectionString);
         }
+
+        private void btnPregledKIF_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnPregledKUF_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
