@@ -98,6 +98,7 @@
             this.btnIzvrsi.TabIndex = 5;
             this.btnIzvrsi.Text = "Izvrši";
             this.btnIzvrsi.UseVisualStyleBackColor = true;
+            this.btnIzvrsi.Click += new System.EventHandler(this.btnIzvrsi_Click);
             // 
             // formIzvozEPDV
             // 

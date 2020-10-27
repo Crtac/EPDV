@@ -36,5 +36,18 @@ namespace ElektronskiPDV
                 txtLokacija.Text = folderPath;
             }
         }
+
+        private void btnIzvrsi_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
     }
 }
