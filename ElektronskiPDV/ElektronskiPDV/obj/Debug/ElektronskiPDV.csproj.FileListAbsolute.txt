@@ -1,0 +1,10 @@
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\bin\Debug\ElektronskiPDV.exe.config
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\bin\Debug\ElektronskiPDV.exe
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\bin\Debug\ElektronskiPDV.pdb
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.csprojAssemblyReference.cache
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.formPocetna.resources
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.Properties.Resources.resources
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.csproj.GenerateResource.cache
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.csproj.CoreCompileInputs.cache
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.exe
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.pdb

@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace ElektronskiPDV
 {
-    public partial class Form1 : Form
+    public partial class formPocetna : Form
     {
-        public Form1()
+        public formPocetna()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(Program.getConnectionString);
         }
     }
 }
