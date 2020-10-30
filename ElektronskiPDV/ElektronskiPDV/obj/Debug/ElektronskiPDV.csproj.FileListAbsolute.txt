@@ -19,3 +19,4 @@ C:\Users\Nikola\Desktop\EPDV\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\Elektr
 C:\Users\Nikola\Desktop\EPDV\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.exe
 C:\Users\Nikola\Desktop\EPDV\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.pdb
 C:\Users\Nikola\Desktop\EPDV\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.formIzvozEPDV.resources
+C:\Users\savanovicn\Desktop\EPDV\ElektronskiPDV\ElektronskiPDV\obj\Debug\ElektronskiPDV.formIzvozEPDV.resources
